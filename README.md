@@ -10,7 +10,7 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPurePro4561%2FPurePro4561.github.io&count_bg=%2300EEFF&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=false"/></a>
 
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/purepro4561/purepro4561.github.io)
+[![](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/purepro4561/purepro4561.github.io)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/purepro4561/purepro4561.github.io-replit)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/purepro4561/purepro4561.github.io)
 [![Deploy to IBM Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/purepro4561/purepro4561.github.io)
